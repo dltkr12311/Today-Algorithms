@@ -22,8 +22,10 @@ function solution(nums) {
   }
   return arr.length <= numDivision ? arr.length : numDivision;
 }
+console.log(solution([3, 1, 2, 3], 2));
+
 //2 .
-function solution(nums) {
+function solution2(nums) {
   let deduplicationPoketMon = new Set(nums);
 
   const result =
@@ -31,3 +33,4 @@ function solution(nums) {
 
   return result;
 }
+console.log(solution2([3, 3, 3, 2, 2, 2], 2));
