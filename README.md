@@ -1,8 +1,8 @@
 # 오늘 풀었던 알고리즘 문제 정리
 
----
-
 ## 프로그래머스
+
+---
 
 ### LEVEL 1
 
@@ -35,3 +35,10 @@
 - [x] 2-1 기능구현
 
 ## LeetCode
+
+---
+
+### Arrays 101
+
+- [x] Find Numbers with Even Number of Digits
+- [x] Squares of a Sorted Array
