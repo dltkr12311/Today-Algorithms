@@ -1,6 +1,6 @@
 # Squares of a Sorted Array
 
-Example 1:
+<b>Example 1:</b>
 
 ```js
 Input: nums = [-4,-1,0,3,10]
@@ -9,7 +9,7 @@ Explanation: After squaring, the array becomes [16,1,0,9,100].
 After sorting, it becomes [0,1,9,16,100].
 ```
 
-Example 2:
+<b>Example 2:</b>
 
 ```js
 Input: nums = [-7, -3, 2, 3, 11];
@@ -25,7 +25,7 @@ var sortedSquares = function (nums) {
   }
   return result.sort((a, b) => a - b);
 };
-
+```
 /*
   배열안에 각 수에 제곱배열을 하고, 내림차순으로 정렬하여서 반환한다.
   
