@@ -43,3 +43,4 @@
 - [x] Find Numbers with Even Number of Digits
 - [x] Squares of a Sorted Array
 - [x] Merge Sorted Array
+- [x] Remove Element
