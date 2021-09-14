@@ -44,3 +44,4 @@
 - [x] Squares of a Sorted Array
 - [x] Merge Sorted Array
 - [x] Remove Element
+- [x] Remove Duplicates from Sorted Array
