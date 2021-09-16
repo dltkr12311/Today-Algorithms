@@ -45,3 +45,4 @@
 - [x] Merge Sorted Array
 - [x] Remove Element
 - [x] Remove Duplicates from Sorted Array
+- [x] Check If N and Its Double Exist
