@@ -31,22 +31,22 @@ Output: true;
 ```
 
 ```js
-var validMountainArray = function(arr) {
-let increasing = false;
-let decreasing = false;
-for(let i = 1, j = 0; i < arr.length; i++, j++) {
-if(arr[j] < arr[i] && !decreasing) {
-increasing = true;
-continue;
-}
-decreasing = true;
-if(arr[j] <= arr[i]) return false;
-}
-return increasing && decreasing;
+var validMountainArray = function (arr) {
+  let increasing = false;
+  let decreasing = false;
+  for (let i = 1, j = 0; i < arr.length; i++, j++) {
+    if (arr[j] < arr[i] && !decreasing) {
+      increasing = true;
+      continue;
+    }
+    decreasing = true;
+    if (arr[j] <= arr[i]) return false;
+  }
+  return increasing && decreasing;
 };
 
-/_
+/*
 처음에는 다음숫자가 커야 한다. 그 다음 수가 크거나 작다면 true를 반환 동적으로 코드를 작성해야 한다.
 처음에 같거나 크지 않다면 false를 반환
-_/
+*/
 ```
