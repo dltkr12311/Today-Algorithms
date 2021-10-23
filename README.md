@@ -60,3 +60,4 @@
 - [x] 1588. Sum of All Odd Length Subarrays
 - [x] 1512. Number of Good Pairs
 - [x] 1480. Running Sum of 1d Array
+- [x] 26. Remove Duplicates from Sorted Array
