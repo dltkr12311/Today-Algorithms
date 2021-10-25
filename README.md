@@ -61,3 +61,11 @@
 - [x] 1512. Number of Good Pairs
 - [x] 1480. Running Sum of 1d Array
 - [x] 26. Remove Duplicates from Sorted Array
+
+## 인프런
+
+---
+
+### 알고리즘
+
+- [x] 홀수
