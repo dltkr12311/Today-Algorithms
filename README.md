@@ -67,6 +67,7 @@
 - [x] 1480. Running Sum of 1d Array
 - [x] 26. Remove Duplicates from Sorted Array
 - [x] 1431. Kids With the Greatest Number of Candies
+- [x] 1089. Duplicate Zeros
 
 ## 인프런
 

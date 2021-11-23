@@ -24,7 +24,9 @@ function solution(n, m) {
   console.log([gcd, getLcm(n, m, gcd)]);
 }
 
-solution(2, 5);
+solution(3, 12);
 
 //최대 공약수, 최소 공배수 공부한점
 // 유클리드 호제법에 대해 공부하였음. n 과 m의 나머지를 gcd라고 했을때 getGcd(n, m) = getGcd(m , gcd)는 같다고 할 수 있다.
+
+//유클리드 호제법의 특징은 매개변수로 x,y가 주어지고 x % y = r 이라고 했을때 x,r의 최대 공약수랑 y와 r의 최대 공약수는 같다
